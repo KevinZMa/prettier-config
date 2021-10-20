@@ -1,7 +1,7 @@
 {
   "name": "@kevinzma/prettier-config",
   "version": "1.0.0",
-  "description": "My preferred prettier config.",
+  "description": "My preferred prettier configuration.",
   "author": "Kevin",
   "main": "index.js",
   "scripts": {},
