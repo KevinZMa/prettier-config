@@ -1,0 +1,24 @@
+{
+  "name": "@kevinzma/prettier-config",
+  "version": "1.0.0",
+  "description": "My preferred prettier config.",
+  "author": "Kevin",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "prettier"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/KevinZMa/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinZMa/prettier-config.git"
+  },
+  "dependencies": {
+    "prettier": "^2.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinZMa/prettier-config#issues"
+  },
+  "devDependencies": {}
+}
