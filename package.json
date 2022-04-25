@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@sapphire/prettier-config": "^1.2.4",
-    "prettier": "^2.4.1"
+    "prettier": "^2.6.2"
   },
   "bugs": {
     "url": "https://github.com/KevinZMa/prettier-config#issues"
