@@ -15,8 +15,7 @@
     "url": "git+https://github.com/KevinZMa/prettier-config.git"
   },
   "dependencies": {
-    "@sapphire/prettier-config": "^1.4.3",
-    "prettier": "^2.7.1"
+    "@sapphire/prettier-config": "^1.4.3"
   },
   "bugs": {
     "url": "https://github.com/KevinZMa/prettier-config#issues"
