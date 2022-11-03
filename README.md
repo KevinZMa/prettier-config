@@ -5,14 +5,14 @@ My preferred prettier configuration. (based on [@sapphire/prettier-config](https
 ## Install
 
 ```bash
-$ npm install -D @kevinzma/prettier-config
+$ npm install --save-dev @kevinzma/prettier-config
 ```
 
 > (or using your preferred package manager)
 
 ## Usage
 
-`package.json`
+Add to your `package.json` (or your prettier config file)
 
 ```json
 {
