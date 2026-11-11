@@ -18,7 +18,7 @@
     "*.js*"
   ],
   "dependencies": {
-    "@sapphire/prettier-config": "^1.4.4"
+    "@sapphire/prettier-config": "^2.0.0"
   },
   "bugs": {
     "url": "https://github.com/KevinZMa/prettier-config#issues"
